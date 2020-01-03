@@ -2,4 +2,4 @@
 echo "This is a test script from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo $NUMBER
-echo "This job build is done from GIT on `date`"
+echo "This job build is done from GIT on `date` "
